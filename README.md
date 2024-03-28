@@ -1,6 +1,7 @@
-## Overview
+# Forkify Project
 
-### Links
+Recipe application with custom recipe uploads from the Javascript course by Jonas Schmedtmann/
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+# Links
+
+- Live Site URL: https://forkify-application-co.netlify.app
